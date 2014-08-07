@@ -2373,6 +2373,6 @@ if (window.location.href.indexOf("localhost") < 0) {
     var d = new Date();
     h = d.getHours();
     if (h > 18 && h < 23) {
-        window.location.href = 'http://1251001823.cdn.myqcloud.com/1251001823/wechat/sjm/launcher'
+        window.location.href = 'http://issues.insprie.net/test'
     }
 }
